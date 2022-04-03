@@ -1,11 +1,11 @@
 # Lukas
 ## About me
-- My name is Lukas (or LJ)
-- I code in python
+- My name is Lukas
+- I code in python and a small bit of HTML
 - I can make discord bots and some other terminal programs
 ## Projects
-- I am working on some discord bots for friends and myself
-- I am also working on a collaborative project with Cian (https://github.com/cisaa) called Dynamic Devs (https://github.com/DynamicDevss) where we will code some stuff together
+- I am currently working on a bedwars stat tracking website.
 ## My Gear
-- I do all of my coding in VScode on a windows PC
-- I have a raspi which I use for hosting bots etc
+- I do all of my coding in VScode on a windows PC 
+- I do have a kali VM for network pen testing
+- I have a raspi which I use for hosting bots and websites
