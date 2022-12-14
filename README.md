@@ -1,11 +1,16 @@
-# Lukas
-## About me
-- My name is Lukas
-- I code in python and HTML,CSS
-- I can make discord bots, terminal programs and basic websites
-## Projects
-- I am currently doing the Responsive web design course over at freeCodeCamp.com
-## My Gear
-- I do all of my coding in VScode on a windows PC 
-- I have a raspi which I use for hosting bots and websites
-- I use the Logitech G Pro TKL keyboard, G305 Lightspeed and G502 Hero mice
+# Lukas James
+
+Hi, I am a high schooler and wannabe developer. I am an intermediate python developer and currently working on becoming a full stack web developer!
+
+## My Languages
+
+Python | CSS | HTML
+
+## What I use
+
+VS Code | Figma | Firefox 
+
+## Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=lukass4&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukass4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
