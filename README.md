@@ -1,7 +1,7 @@
 # Lukas James
 
 Hi, I am a high school developer. I am an intermediate python, HTML and CSS developer and a beginner JS developer.
-Crrently working on my web design business
+Currently working on my web design business
 
 ## My Languages
 
