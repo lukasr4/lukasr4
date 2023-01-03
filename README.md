@@ -1,14 +1,15 @@
 # Lukas James
 
-Hi, I am a high schooler and wannabe developer. I am an intermediate python developer and currently working on becoming a full stack web developer!
+Hi, I am a high school developer. I am an intermediate python, HTML and CSS developer and a beginner JS developer.
+Crrently working on my web design business
 
 ## My Languages
 
-Python | CSS | HTML
+Python | CSS | HTML | JS
 
 ## What I use
 
-VS Code | Figma | Firefox 
+VS Code | Figma | Firefox | Git/Github | Netlify 
 
 ## Stats
 
