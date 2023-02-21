@@ -5,11 +5,16 @@ Currently working on my web design business
 
 ## My Languages
 
-Python | CSS | HTML | JS
+PY | CSS | HTML | JS | TS
+(HTML, CSS not really languages but whatever)
+
+## Frameworks/Libraries
+
+React (jS) | Next (js) | Pillow (py) | discord.py (py)
 
 ## What I use
 
-VS Code | Figma | Firefox | Git/Github | Netlify 
+VS Code | Figma | Chrome | Git/Github | Netlify | Firebase
 
 ## Stats
 
