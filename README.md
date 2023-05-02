@@ -1,12 +1,11 @@
 # Lukas James
 
-Hi, I am a high school developer. I am an intermediate python, HTML and CSS developer and a beginner JS developer.
+Hi, I am a high school developer. I am an intermediate python, HTML and CSS developer JS developer.
 Currently working on my web design business
 
 ## My Languages
 
 PY | CSS | HTML | JS | TS
-(HTML, CSS not really languages but whatever)
 
 ## Frameworks/Libraries
 
@@ -14,7 +13,7 @@ React (jS) | Next (js) | Pillow (py) | discord.py (py)
 
 ## What I use
 
-VS Code | Figma | Chrome | Git/Github | Netlify | Firebase
+VS Code | Figma | Chrome | Git/Github | Netlify | Firebase | Vercel
 
 ## Stats
 
