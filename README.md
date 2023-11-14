@@ -17,5 +17,4 @@ VS Code | Figma | Chrome | Git/Github | Netlify | Firebase | Vercel
 
 ## Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=lukass4&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukass4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
