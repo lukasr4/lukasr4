@@ -1,19 +1,26 @@
-# Lukas James
+## My Skills
 
-Hi, I am a high school developer. I am an intermediate python, HTML and CSS developer JS developer.
-Currently working on my web design business
+- Python
+    - Pillow
+    - Pyautogui
+    - discord.py
+    - openai
+- HTML and CSS
+  - Tailwind
+- Javascript/Typescript
+    - React
+    - NextJS
+    - Firebase databases
 
-## My Languages
+## My software/tools
 
-PY | CSS | HTML | JS | TS
-
-## Frameworks/Libraries
-
-React (jS) | Next (js) | Pillow (py) | discord.py (py)
-
-## What I use
-
-VS Code | Figma | Chrome | Git/Github | Netlify | Firebase | Vercel
+- VS Code
+- (fully switching soon) Neovim
+- Figma
+- Brave browser (web dev)
+- Firebase
+- Vercel and Netlify hosting
+- Namecheap (domains)
 
 ## Stats
 
